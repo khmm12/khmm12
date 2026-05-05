@@ -30,7 +30,7 @@ Examples I can describe without violating NDAs:
 - Traced backend memory leaks across runtime behavior, dependencies, and allocator behavior, including upstream library fixes and allocator changes.
 - Drove database design and performance trade-offs across access patterns, query plans, indexing strategy, cardinality, locking behavior, consistency needs, and schema evolution constraints.
 - Designed API, data, and consistency boundaries for transaction-sensitive systems, covering correctness, auditability, failure modes, access control, data exposure, and safe operational behavior.
-- Built AWS Lambda rendering pipelines for pdf documents and map images generated from vector map data, with strict layout and visual fidelity requirements.
+- Built AWS Lambda rendering pipelines for PDF documents and map images generated from vector map data, with strict layout and visual fidelity requirements.
 - Designed and helped build large-scale infrastructure discovery and asset inventory workflows, covering collection strategy, orchestration, and implementation details.
 - Built a Tizen B2B advertising application where local caching, synchronized multi-device playback, and unreliable system time required explicit engineering workarounds. Yes, NTP can be a plot twist.
 - Resolved a hardware-adjacent integration issue by tracing the device interface, validating serial communication with an oscilloscope and USB-TTL adapter, and correcting configuration at the software/device boundary.
