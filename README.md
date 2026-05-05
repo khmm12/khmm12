@@ -63,6 +63,8 @@ My public repositories are not a full map of my commercial work, but they show t
 
 I like systems where software has to deal with the physical world: Home Assistant, Zigbee2MQTT, Node-RED, ESPHome, device hacking, soldering, and the occasional reminder that manuals are sometimes optimistic.
 
+I also train my cats 🐈, which is a good reminder that not every system accepts commands reliably.
+
 When the weather is kind, I ride an electric unicycle.
 
 ## Technical range 🧪
