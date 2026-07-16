@@ -25,10 +25,10 @@ My commercial background is mostly in fintech, ecommerce, and SaaS, usually arou
 
 Examples I can describe without violating NDAs:
 
-- Coordinated live releases spanning backend, web, iOS, Android, QA, product stakeholders, rollout planning, release checklists, and post-release verification.
-- Improved frontend performance by working from real metrics, bottlenecks, and user-visible behavior instead of vibes.
-- Traced backend memory leaks across runtime behavior, dependencies, and allocator behavior, including upstream library fixes and allocator changes.
-- Drove database design and performance trade-offs across access patterns, query plans, indexing strategy, cardinality, locking behavior, consistency needs, and schema evolution constraints.
+- Coordinated live releases spanning backend, web, iOS, Android, QA, and product stakeholders, with rollout planning, release checklists, and post-release verification.
+- Improved frontend performance by working from real metrics and user-visible behavior instead of vibes.
+- Traced backend memory leaks across runtime, dependencies, and allocator behavior, including upstream library fixes.
+- Drove database design and performance trade-offs across query plans, indexing, locking, consistency, and schema evolution.
 - Designed API, data, and consistency boundaries for transaction-sensitive systems, covering correctness, auditability, failure modes, access control, data exposure, and safe operational behavior.
 - Built AWS Lambda rendering pipelines for PDF documents and map images generated from vector map data, with strict layout and visual fidelity requirements.
 - Designed and helped build large-scale infrastructure discovery and asset inventory workflows, covering collection strategy, orchestration, and implementation details.
@@ -52,12 +52,15 @@ In practice, that has meant helping teams adopt TypeScript, modern frontend arch
 
 My public repositories are not a full map of my commercial work, but they show the kind of problems I enjoy: focused tools, developer ergonomics, observability, browser/productivity workflows, WebAssembly experiments, and hardware-side fun.
 
-- [hoxxes-briefing](https://github.com/khmm12/hoxxes-briefing) - Deep Rock Galactic briefing board built with Solid, Rust, and WebAssembly.
-- [minimal-chrome-tab](https://github.com/khmm12/minimal-chrome-tab) - minimal Chrome new tab page for a quieter browser. TypeScript.
-- [mdns-health-checker](https://github.com/khmm12/mdns-health-checker) - observability: periodic mDNS health checks with Prometheus integration. Go.
-- [react-map-gl-supercluster](https://github.com/khmm12/react-map-gl-supercluster) - small helper library for `react-map-gl` and `supercluster`. TypeScript.
-- [flipper-zero-2048-reloaded](https://github.com/khmm12/flipper-zero-2048-reloaded) - modernized 2048 game for the Flipper Zero. C.
+- [hoxxes-briefing](https://github.com/khmm12/hoxxes-briefing) - Deep Rock Galactic weekly Deep Dive briefing board built with Solid, Rust, and WebAssembly.
+- [minimal-chrome-tab](https://github.com/khmm12/minimal-chrome-tab) - a calm, resource-friendly replacement for the browser's new tab page. TypeScript.
+- [react-map-gl-supercluster](https://github.com/khmm12/react-map-gl-supercluster) - React hook that clusters map markers with `supercluster` for `react-map-gl`. TypeScript.
 - [knex-tiny-logger](https://github.com/khmm12/knex-tiny-logger) - developer tooling: zero-config query logging for Knex. TypeScript.
+- [mdns-health-checker](https://github.com/khmm12/mdns-health-checker) - observability: periodic mDNS health checks with Prometheus integration. Go.
+- [solidjs-v2-skills](https://github.com/khmm12/solidjs-v2-skills) - Claude Code skills for writing, migrating, and reviewing SolidJS 2.0 code.
+- [esphome-components](https://github.com/khmm12/esphome-components) - external ESPHome components for my smart home devices. C++.
+- [flipper-zero-2048-reloaded](https://github.com/khmm12/flipper-zero-2048-reloaded) - modernized 2048 game for the Flipper Zero. C.
+- [flipper-xiaomi-filter-reset](https://github.com/khmm12/flipper-xiaomi-filter-reset) - Flipper Zero app to reset the filter-life counter on Xiaomi air purifier NTAG213 filters. C.
 
 ## Hobbies 🧰
 
